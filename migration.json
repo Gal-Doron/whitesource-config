@@ -1,0 +1,6 @@
+{
+	"migrationMode": {
+		"changeType": "inheritance",
+		"openPR": true
+	}
+}
